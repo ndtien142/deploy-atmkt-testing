@@ -1,0 +1,13 @@
+:root {
+  --swiper-navigation-size: 30px;
+}
+
+.swiper-button-next {
+  right: 0;
+  left: auto;
+}
+
+.swiper-button-prev {
+  right: auto;
+  left: 0;
+}

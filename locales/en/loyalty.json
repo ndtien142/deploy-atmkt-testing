@@ -1,0 +1,16 @@
+{
+  "enter_code": "Enter code",
+  "code_guide": "Find code outside your vegetable packaging or shopping bag.",
+  "product_code": "Product code",
+  "check_info": "Check information",
+  "scan_qr_code": "Scan QR",
+  "back_to_homepage": "Back to home page",
+  "modalGift": {
+    "title": "You have successfully accumulated {{number}} points",
+    "evoucher": "You receive an E-voucher worth {{point}} points.",
+    "game": "You receive {{number}} spins.",
+    "closeBtn": "Close",
+    "goToEvoucher": "E-voucher",
+    "goToGame": "Lucky wheel"
+  }
+}

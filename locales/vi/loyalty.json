@@ -1,0 +1,16 @@
+{
+  "enter_code": "Nhập mã",
+  "code_guide": "Tìm thông tin mã bên ngoài bao bì đóng gói rau củ hoặc shopping bag của bạn.",
+  "product_code": "Mã sản phẩm",
+  "check_info": "Kiểm tra thông tin",
+  "scan_qr_code": "Quét mã QR",
+  "back_to_homepage": "Quay lại trang chủ",
+  "modalGift": {
+    "title": "Bạn đã tích thành công {{number}} xu",
+    "evoucher": "Bạn được tặng E-voucher trị giá {{point}} xu.",
+    "game": "Bạn được tặng {{number}} lượt quay.",
+    "closeBtn": "Đóng",
+    "goToEvoucher": "E-voucher",
+    "goToGame": "Vòng quay"
+  }
+}
